@@ -12,6 +12,8 @@ It checks drone missions for spatial and temporal conflicts in shared airspace.
 - `visuals/` : Optional plots/screenshots
 
 ## How to Run
-1. Install required packages:
+
+1. Navigate to project directory
 ```bash
-pip install -r requirements.txt
+cd FlytBase-UAV-Strategic-Deconfliction
+
